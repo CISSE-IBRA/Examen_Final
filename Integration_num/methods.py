@@ -67,7 +67,7 @@ def gauss_laguerre(f, n):
 
 
 # ================================================================
-#   Méthode de Gauss–Chebyshev (1er genre)
+#   Méthode de Gauss–Chebyshev
 # ================================================================
 def gauss_chebyshev(f, n):
     """
